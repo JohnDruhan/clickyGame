@@ -1,7 +1,9 @@
 # clickyGame
 A memory game with React
 
-To run the game download repo.
+The Game is Deployed on Heroku here: https://limitless-mountain-98112.herokuapp.com/
+
+To run the game localy from github download repo.
 
     1. Run 'npm install' 
 
